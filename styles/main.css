@@ -1,4 +1,33 @@
 @font-face {
+  font-family: 'font Awesome';
+  font-style: normal;
+  src: url('../public/fonts/fa-brands-400.woff2') format('woff2'), url('../public/fonts/fa-brands-400.ttf') format('truetype');
+}
+
+.fabrands {
+  font-family: 'font Awesome';
+}
+.instagram:before {
+  content: '\f16d';
+  font-family: 'font Awesome';
+}
+.spotify:before {
+  content: '\f1bc';
+  font-family: 'font Awesome';
+}
+.discord:before {
+  content: '\f392';
+  font-family: 'font Awesome';
+}
+.github:before {
+  content: '\f09b';
+  font-family: 'font Awesome';
+}
+
+
+
+
+@font-face {
   font-family: 'Inter var';
   font-style: normal;
   font-weight: 100 900;
