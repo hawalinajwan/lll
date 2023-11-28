@@ -2,7 +2,7 @@
 title: Kucing Budi
 date: 2022/7/06
 description:  The Ash-Gray Cat with a Spicy Twis.
-tag: 
+tag: Human
 author: You
 ---
 
@@ -26,3 +26,4 @@ Budi's uniqueness not only lies in his charming ash-gray fur but also in his cou
   priority
   className="next-image"
 />
+[View ↗](/images/budi.jpg)
