@@ -6,8 +6,8 @@ import { Html, Head, Main, NextScript } from 'next/document'
 export default function Document() {
   const meta = {
     title: 'hawalinajwan',
-    description: 'aw',
-    image: 'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png'
+    description: 'website saia',
+    image: '../images/embed.jpg'
   }
 
   return (
