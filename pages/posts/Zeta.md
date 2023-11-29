@@ -12,6 +12,7 @@ Zeta is not just a girlfriend to me, but also a figure who fills my life with pr
 
 ---
 
+
 <Image
   src="/images/zeta.jpg"
   alt="Photo"
