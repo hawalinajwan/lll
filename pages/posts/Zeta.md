@@ -1,7 +1,7 @@
 ---
 title: Zeta
 date: 2023/11/28
-description:  Hemm
+description:  ヽ(U ω U(￣ω￣〃)ゝ <3
 tag: Human
 author: You
 ---
