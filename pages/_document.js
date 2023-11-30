@@ -1,7 +1,4 @@
 import { Html, Head, Main, NextScript } from 'next/document'
-import image from 'next/image'
-
-
 
 export default function Document() {
   const meta = {
@@ -19,6 +16,7 @@ export default function Document() {
         <meta property="og:description" content={meta.description} />
         <meta property="og:title" content={meta.title} />
         <meta property="og:image" content={meta.image} />
+        <meta property='og:url' content={meta.url}/>
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:site" content="@hawalinajwan" />
         <meta name="twitter:title" content={meta.title} />
