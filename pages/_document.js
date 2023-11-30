@@ -6,8 +6,8 @@ import { Html, Head, Main, NextScript } from 'next/document'
 export default function Document() {
   const meta = {
     title: 'hawalinajwan',
-    description: 'website saia',
-    image: '../images/embed.jpg'
+    description: 'Website Awa (^^ゞ',
+    image: '../public/images/embed.jpg'
   }
 
   return (
