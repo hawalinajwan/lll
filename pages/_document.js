@@ -7,7 +7,7 @@ export default function Document() {
   const meta = {
     title: 'hawalinajwan',
     description: 'Website Awa (^^ゞ',
-    image: '../public/images/embed.jpg'
+    image: 'https://www.hawalinajwan.site/images/zeta.jpg'
   }
 
   return (

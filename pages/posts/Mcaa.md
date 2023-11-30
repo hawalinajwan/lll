@@ -6,7 +6,7 @@ tag: Human
 author: You
 ---
 
-## Minecraft Server **Kelas Axem**
+## Minecraft Server Kelas Axem
 
 On this server, we come together to embark on an exciting journey in survival mode, where our collective aim is to explore the vast virtual landscapes, confront challenges, and collaboratively construct magnificent creations that reflect the boundless creativity within our community.
 
@@ -81,6 +81,7 @@ On this server, we come together to embark on an exciting journey in survival mo
   quality="50"
 />
  [View ↗](/images/6al.jpg)
+
 
  ```
  Java and Bedrock
