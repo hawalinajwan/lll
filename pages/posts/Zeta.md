@@ -3,7 +3,7 @@ title: Zeta
 date: 2023/11/28
 description:  ヽ(U ω U(￣ω￣〃)ゝ <3
 tag: Human
-author: You
+author: hawalinajwan
 ---
 
 ## Zeta
