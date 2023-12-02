@@ -10,9 +10,9 @@ author: hawalinajwan
 
 On this server, we come together to embark on an exciting journey in survival mode, where our collective aim is to explore the vast virtual landscapes, confront challenges, and collaboratively construct magnificent creations that reflect the boundless creativity within our community.
 
-Farming and Livestock Areas
+**Farming Area**
 <Image
-  src="/images/1saw.jpg"
+  src="/images/sawah.jpg"
   alt="Photo"
   width={562}
   height={372}
@@ -20,9 +20,9 @@ Farming and Livestock Areas
   className="next-image"
   quality="50"
 />
- [View ↗](/images/1saw.jpg)
+ [View ↗](/images/sawah.jpg)
  
-Mob Farm
+**Mob Farm**
  <Image
   src="/images/2mfa.jpg"
   alt="Photo"
@@ -34,7 +34,7 @@ Mob Farm
 />
  [View ↗](/images/2mfa.jpg)
  
-Bee Farm
+**Bee Farm**
  <Image
   src="/images/3rdu.jpg"
   alt="Photo"
@@ -46,7 +46,7 @@ Bee Farm
 />
  [View ↗](/images/3rdu.jpg)
  
-Nether Portal
+**Nether Portal**
  <Image
   src="/images/4prt.jpg"
   alt="Photo"
@@ -58,9 +58,9 @@ Nether Portal
 />
  [View ↗](/images/4prt.jpg)
 
-Rest Area
+**Rest Area**
  <Image
-  src="/images/5bar.jpg"
+  src="/images/nynt.jpg"
   alt="Photo"
   width={562}
   height={372}
@@ -68,9 +68,9 @@ Rest Area
   className="next-image"
   quality="50"
 />
- [View ↗](/images/5bar.jpg)
+ [View ↗](/images/nynt.jpg)
 
-Residential Area
+**Residential Area**
  <Image
   src="/images/6al.jpg"
   alt="Photo"
@@ -82,6 +82,17 @@ Residential Area
 />
  [View ↗](/images/6al.jpg)
 
+**Iron Farm**
+ <Image
+  src="/images/irfrm.jpg"
+  alt="Photo"
+  width={562}
+  height={372}
+  priority
+  className="next-image"
+  quality="50"
+/>
+ [View ↗](/images/irfrm.jpg)
 
  ```
  Java and Bedrock
