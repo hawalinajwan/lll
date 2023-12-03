@@ -94,6 +94,18 @@ On this server, we come together to embark on an exciting journey in survival mo
 />
  [View ↗](/images/irfrm.jpg)
 
+**Chicken, Cow, and Sheep Farm**
+ <Image
+  src="/images/7lv.jpg"
+  alt="Photo"
+  width={562}
+  height={372}
+  priority
+  className="next-image"
+  quality="50"
+/>
+ [View ↗](/images/7lv.jpg)
+
  ```
  Java and Bedrock
  Kelasaxem.aternos.me 
