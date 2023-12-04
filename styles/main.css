@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'font Awesome';
   font-style: normal;
-  src: url('../public/fonts/fa-brands-400.woff2') format('woff2'), url('../public/fonts/fa-brands-400.ttf') format('truetype');
+  src: url('../public/fonts/fa-brands-400.ttf') format('truetype');
 }
 
 .fabrands {
