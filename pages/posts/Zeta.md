@@ -19,7 +19,7 @@ Zeta is not just a girlfriend to me, but also a figure who fills my life with pr
   className="next-image"
 />
 
-(≧∇≦)ﾉ -> avvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+(≧∇≦)ﾉ -> avvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 
 ---
 
