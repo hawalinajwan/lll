@@ -82,3 +82,43 @@ Zeta is not just a girlfriend to me, but also a figure who fills my life with pr
   className="next-image"
 />
 [View ↗](/images/Z6.jpg)
+
+<Image
+  src="/images/Z7.jpg"
+  alt="Photo"
+  width={562}
+  height={375}
+  priority
+  className="next-image"
+/>
+[View ↗](/images/Z7.jpg)
+
+<Image
+  src="/images/Z8.jpg"
+  alt="Photo"
+  width={562}
+  height={375}
+  priority
+  className="next-image"
+/>
+[View ↗](/images/Z8.jpg)
+
+<Image
+  src="/images/Z9.jpg"
+  alt="Photo"
+  width={562}
+  height={375}
+  priority
+  className="next-image"
+/>
+[View ↗](/images/Z9.jpg)
+
+<Image
+  src="/images/Z10.jpg"
+  alt="Photo"
+  width={562}
+  height={375}
+  priority
+  className="next-image"
+/>
+[View ↗](/images/Z10.jpg)
