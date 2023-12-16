@@ -34,14 +34,14 @@ Zeta is not just a girlfriend to me, but also a figure who fills my life with pr
 [View ↗](/images/zeta.jpg)
 
 <Image
-  src="/images/Z1.jpg"
+  src="/images/Z11.jpg"
   alt="Photo"
   width={562}
   height={375}
   priority
   className="next-image"
 />
-[View ↗](/images/Z1.jpg)
+[View ↗](/images/Z11.jpg)
 
 <Image
   src="/images/Z2.jpg"
