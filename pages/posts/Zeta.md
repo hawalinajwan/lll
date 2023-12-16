@@ -1,7 +1,7 @@
 ---
-title: Zeta
+title: <3
 date: 2023/11/28
-description:  ヽ(U ω U(￣ω￣〃)ゝ <3
+description:  ヽ(U ω U(￣ω￣〃)ゝ 
 tag: Human
 author: hawalinajwan
 ---
@@ -10,8 +10,18 @@ author: hawalinajwan
 
 Zeta is not just a girlfriend to me, but also a figure who fills my life with profound happiness and love. In this article, I want to share the story of how Zeta has become an inseparable part of my life journey and how her presence brings a new color to my daily life.😁
 
----
+<Image
+  src="/images/zzzzz.jpg"
+  alt="Photo"
+  width={562}
+  height={375}
+  priority
+  className="next-image"
+/>
 
+(≧∇≦)ﾉ -> avvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+
+---
 
 <Image
   src="/images/zeta.jpg"
