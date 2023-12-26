@@ -1,12 +1,12 @@
 ---
-title: Server
+title: MC vanilla
 date: 2023/12/1
-description:  Kelas Axem Server.
+description:  Kelas Axem Server S1.
 tag: Human
 author: hawalinajwan
 ---
 
-## Minecraft Server Kelas Axem
+## Minecraft Server Kelas Axem Vanilla
 
 On this server, we come together to embark on an exciting journey in survival mode, where our collective aim is to explore the vast virtual landscapes, confront challenges, and collaboratively construct magnificent creations that reflect the boundless creativity within our community.
 
