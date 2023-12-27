@@ -1,7 +1,7 @@
 ---
 title: MC mod
 date: 2023/12/26
-description:  Kelas Axem Server S2.
+description: Kelas Axem Server S2.
 tag: Human
 author: hawalinajwan
 ---
@@ -10,6 +10,8 @@ author: hawalinajwan
 
 Mod : 
 > Create Above and Beyond
+
+
 
 <Image
   src="/images/mc1.jpg"

@@ -18,6 +18,8 @@ What makes Budi even more special is his unusual fondness for spicy food, partic
 
 Budi's uniqueness not only lies in his charming ash-gray fur but also in his courage to face the typically disliked spicy flavor, a trait uncommon in most pets. With an energetic personality and an odd palate, Budi serves as an example that uniqueness can be found even in our pets' everyday behaviors.
 
+
+
 <Image
   src="/images/budi.jpg"
   alt="Photo"
