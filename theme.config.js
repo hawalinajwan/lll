@@ -23,9 +23,9 @@ export default {
     
     
       <time>{YEAR}</time> © hawalinajwan.
-      <a href="/feed.xml">hub</a>
+      <span className="heart">❤️</span>
       <style jsx>{`
-        a {
+        span {
           float: right;
         }
         @media screen and (max-width: 480px) {
