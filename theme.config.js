@@ -23,7 +23,7 @@ export default {
     
     
       <time>{YEAR}</time> © hawalinajwan.
-      <span className="heart">❤️</span>
+      <span className="heart">🌷</span>
       <style jsx>{`
         span {
           float: right;
