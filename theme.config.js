@@ -22,7 +22,7 @@ export default {
     </ul>
     
     
-      <time>{YEAR}</time> © hawalinajwan.
+      2023 © hawalinajwan.
       <span className="heart">🌷</span>
       <style jsx>{`
         span {
