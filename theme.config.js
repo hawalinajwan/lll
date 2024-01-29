@@ -1,3 +1,6 @@
+
+
+
 const YEAR = new Date().getFullYear()
 import { SpeedInsights } from "@vercel/speed-insights/next"
 
@@ -6,18 +9,18 @@ export default {
     <small className="about" style={{ display: 'block', marginTop: '8rem' }}>
     <ul>
       <li>
-        <a href="https://instagr.am/hawalinajwan_" target="_blank" className='fabrands instagram'></a>
+        <a alt="instagram" href="https://instagr.am/hawalinajwan_" target="_blank" className='fabrands instagram'></a>
       </li>
       <li>
-        <a href="https://open.spotify.com/user/fnskc5zkcs6mtf4s2wxw0a88o?si=0a00086fafbd4a23"
+        <a alt="spotify" href="https://open.spotify.com/user/fnskc5zkcs6mtf4s2wxw0a88o?si=0a00086fafbd4a23"
           target="_blank" className='fabrands spotify'></a>
       </li>
       <li>
-        <a href="https://discord.com/users/644892716953632768" target="_blank"
+        <a alt="discord" href="https://discord.com/users/644892716953632768" target="_blank"
           className="fabrands discord"></a>
       </li>
       <li>
-        <a href="https://github.com/hawalinajwan" target="_blank" className='fabrands github'></a>
+        <a alt="github" href="https://github.com/hawalinajwan" target="_blank" className='fabrands github'></a>
       </li>
     </ul>
     
