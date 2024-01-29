@@ -96,9 +96,7 @@ details summary {
 }
 
 p.awah:before {
-  text-align: center;
-  content: "hawalinajwan";
-  color: rgb(255, 234, 227);
+  content: "hawalinajwan";  
   font-size: 125%;
   font-family: cursive ;
 }
