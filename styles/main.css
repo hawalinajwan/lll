@@ -95,9 +95,19 @@ details summary {
   cursor: pointer;
 }
 
+p.awah:before {
+  text-align: center;
+  content: "hawalinajwan";
+  color: rgb(255, 234, 227);
+  font-size: 125%;
+  font-family: cursive ;
+}
+
 img.next-image {
   margin: 0;
   border-radius: 15px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 img.pfp {
