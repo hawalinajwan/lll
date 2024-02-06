@@ -9,7 +9,7 @@ export default {
     <small className="about" style={{ display: 'block', marginTop: '8rem' }}>
     <ul>
       <li>
-        <a href="https://instagr.am/hawalinajwan_" target="_blank" className='fabrands instagram'></a>
+        <a href="https://instagr.am/hawalinajwan_" target="_blank" className='fabrands instagram' ></a>
       </li>
       <li>
         <a href="https://open.spotify.com/user/fnskc5zkcs6mtf4s2wxw0a88o?si=0a00086fafbd4a23"
