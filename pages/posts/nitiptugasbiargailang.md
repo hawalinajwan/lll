@@ -1,9 +1,9 @@
 ---
-title: Arsip Tugas [1]
+title: IPOFSMA
 date: 2024/2/6
-description: B. Inggris
+description: Impact Polarisation Of Social Media Algoritmhs
 tag: Human
-author: GPT
+author: =_=
 ---
 
  **IMPACT POLARISATION OF SOCIAL MEDIA ALGORITMHS**
