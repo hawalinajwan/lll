@@ -7,18 +7,22 @@
 .fabrands {
   font-family: 'font Awesome';
 }
+
 .instagram:before {
   content: '\f16d';
   font-family: 'font Awesome';
 }
+
 .spotify:before {
   content: '\f1bc';
   font-family: 'font Awesome';
 }
+
 .discord:before {
   content: '\f392';
   font-family: 'font Awesome';
 }
+
 .github:before {
   content: '\f09b';
   font-family: 'font Awesome';
@@ -28,7 +32,7 @@
 .about ul {
   list-style: none;
   display: flex;
-  margin-left: -20px;
+  margin-left: -20px
 }
 
 
@@ -47,6 +51,7 @@
   font-display: block;
   src: url(/fonts/Inter-roman.latin.var.woff2) format('woff2');
 }
+
 @font-face {
   font-family: 'Inter var';
   font-style: italic;
@@ -68,6 +73,7 @@ body {
   letter-spacing: -0.02em;
   text-align: justify;
 }
+
 b,
 strong,
 h3,
@@ -76,15 +82,17 @@ h5,
 h6 {
   font-variation-settings: 'wght' 650;
 }
+
 h1 {
   font-variation-settings: 'wght' 850;
 }
+
 h2 {
   font-variation-settings: 'wght' 750;
 }
 
 @media screen and (min-device-pixel-ratio: 1.5),
-  screen and (min-resolution: 1.5dppx) {
+screen and (min-resolution: 1.5dppx) {
   body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -96,9 +104,9 @@ details summary {
 }
 
 p.awah:before {
-  content: "hawalinajwan";  
+  content: "Hawali Najwan";
   font-size: 125%;
-  font-family: cursive ;
+  font-family: cursive;
 }
 
 img.next-image {
@@ -123,22 +131,22 @@ img.pfp {
 
 @keyframes pulse {
   0% {
-      transform: scale(1);
-      opacity: 0.7;
+    transform: scale(1);
+    opacity: 0.7;
   }
+
   50% {
-      transform: scale(1.2);
-      opacity: 1;
+    transform: scale(1.2);
+    opacity: 1;
   }
+
   100% {
-      transform: scale(1);
-      opacity: 0.7;
+    transform: scale(1);
+    opacity: 0.7;
   }
 }
 
-.heart {
-  animation: pulse 2s infinite;
-}
+
 
 
 body {
