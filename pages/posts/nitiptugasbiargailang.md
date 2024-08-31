@@ -5,7 +5,7 @@ description: Impact Polarisation Of Social Media Algoritmhs
 tag: Human
 author: =_=
 ---
-
+---
  **IMPACT POLARISATION OF SOCIAL MEDIA ALGORITMHS**
 
 Polarisasi algoritma social media dapat memiliki dampak yang signifikan pada Kesehatan mental generasi Z. Dalam kontek ini, polarisasi merujuk pada kecenderungan algoritma untuk mengekspos pengguna media social pada konten yang sejalan dengan pandangan mereka. Beberapa dampak yang mungkin terjadi adalah : 
