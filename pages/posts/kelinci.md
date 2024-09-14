@@ -14,4 +14,4 @@ author: hawalinajwan
   priority
   className="next-image"
 />
-[View ↗](/images/kelinci.jpg)
+[View](/images/kelinci.jpg)

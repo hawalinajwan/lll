@@ -28,4 +28,4 @@ Budi's uniqueness not only lies in his charming ash-gray fur but also in his cou
   priority
   className="next-image"
 />
-[View ↗](/images/budi.jpg)
+[View](/images/budi.jpg)

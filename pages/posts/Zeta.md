@@ -31,7 +31,7 @@ Zeta is not just a girlfriend to me, but also a figure who fills my life with pr
   priority
   className="next-image"
 />
-[View ↗](/images/zeta.jpg)
+[View](/images/zeta.jpg)
 
 <Image
   src="/images/Z11.jpg"
@@ -41,7 +41,7 @@ Zeta is not just a girlfriend to me, but also a figure who fills my life with pr
   priority
   className="next-image"
 />
-[View ↗](/images/Z11.jpg)
+[View](/images/Z11.jpg)
 
 <Image
   src="/images/Z2.jpg"
@@ -51,7 +51,7 @@ Zeta is not just a girlfriend to me, but also a figure who fills my life with pr
   priority
   className="next-image"
 />
-[View ↗](/images/Z2.jpg)
+[View](/images/Z2.jpg)
 
 <Image
   src="/images/Z3.jpg"
@@ -61,7 +61,7 @@ Zeta is not just a girlfriend to me, but also a figure who fills my life with pr
   priority
   className="next-image"
 />
-[View ↗](/images/Z3.jpg)
+[View](/images/Z3.jpg)
 
 <Image
   src="/images/Z4.jpg"
@@ -71,7 +71,7 @@ Zeta is not just a girlfriend to me, but also a figure who fills my life with pr
   priority
   className="next-image"
 />
-[View ↗](/images/Z4.jpg)
+[View](/images/Z4.jpg)
   
 <Image
   src="/images/Z6.jpg"
@@ -81,7 +81,7 @@ Zeta is not just a girlfriend to me, but also a figure who fills my life with pr
   priority
   className="next-image"
 />
-[View ↗](/images/Z6.jpg)
+[View](/images/Z6.jpg)
 
 <Image
   src="/images/Z7.jpg"
@@ -91,7 +91,7 @@ Zeta is not just a girlfriend to me, but also a figure who fills my life with pr
   priority
   className="next-image"
 />
-[View ↗](/images/Z7.jpg)
+[View](/images/Z7.jpg)
 
 <Image
   src="/images/Z8.jpg"
@@ -101,7 +101,7 @@ Zeta is not just a girlfriend to me, but also a figure who fills my life with pr
   priority
   className="next-image"
 />
-[View ↗](/images/Z8.jpg)
+[View](/images/Z8.jpg)
 
 <Image
   src="/images/Z9.jpg"
@@ -111,7 +111,7 @@ Zeta is not just a girlfriend to me, but also a figure who fills my life with pr
   priority
   className="next-image"
 />
-[View ↗](/images/Z9.jpg)
+[View](/images/Z9.jpg)
 
 <Image
   src="/images/Z10.jpg"
@@ -121,4 +121,4 @@ Zeta is not just a girlfriend to me, but also a figure who fills my life with pr
   priority
   className="next-image"
 />
-[View ↗](/images/Z10.jpg)
+[View](/images/Z10.jpg)

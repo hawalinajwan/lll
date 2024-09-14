@@ -20,7 +20,7 @@ On this server, we come together to embark on an exciting journey in survival mo
   className="next-image"
   quality="50"
 />
- [View ↗](/images/sawah.jpg)
+ [View](/images/sawah.jpg)
  
 **Mob Farm**
  <Image
@@ -32,7 +32,7 @@ On this server, we come together to embark on an exciting journey in survival mo
   className="next-image"
   quality="50"
 />
- [View ↗](/images/2mfa.jpg)
+ [View](/images/2mfa.jpg)
  
 **Bee Farm**
  <Image
@@ -44,7 +44,7 @@ On this server, we come together to embark on an exciting journey in survival mo
   className="next-image"
   quality="50"
 />
- [View ↗](/images/3rdu.jpg)
+ [View](/images/3rdu.jpg)
  
 **Nether Portal**
  <Image
@@ -56,7 +56,7 @@ On this server, we come together to embark on an exciting journey in survival mo
   className="next-image"
   quality="50"
 />
- [View ↗](/images/4prt.jpg)
+ [View](/images/4prt.jpg)
 
 **Rest Area**
  <Image
@@ -68,7 +68,7 @@ On this server, we come together to embark on an exciting journey in survival mo
   className="next-image"
   quality="50"
 />
- [View ↗](/images/nynt.jpg)
+ [View](/images/nynt.jpg)
 
 **Residential Area**
  <Image
@@ -80,7 +80,7 @@ On this server, we come together to embark on an exciting journey in survival mo
   className="next-image"
   quality="50"
 />
- [View ↗](/images/6al.jpg)
+ [View](/images/6al.jpg)
 
 **Iron Farm**
  <Image
@@ -92,7 +92,7 @@ On this server, we come together to embark on an exciting journey in survival mo
   className="next-image"
   quality="50"
 />
- [View ↗](/images/irfrm.jpg)
+ [View](/images/irfrm.jpg)
 
 **Chicken, Cow, and Sheep Farm**
  <Image
@@ -104,7 +104,7 @@ On this server, we come together to embark on an exciting journey in survival mo
   className="next-image"
   quality="50"
 />
- [View ↗](/images/7lv.jpg)
+ [View](/images/7lv.jpg)
 
  ```
  Java and Bedrock

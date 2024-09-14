@@ -22,7 +22,7 @@ Mod :
   className="next-image"
   quality="50"
 />
- [View ↗](/images/mc1.jpg)
+ [View](/images/mc1.jpg)
  
  <Image
   src="/images/mc2.jpg"
@@ -33,7 +33,7 @@ Mod :
   className="next-image"
   quality="50"
 />
- [View ↗](/images/mc2.jpg)
+ [View](/images/mc2.jpg)
  
  <Image
   src="/images/mc3.jpg"
@@ -44,7 +44,7 @@ Mod :
   className="next-image"
   quality="50"
 />
- [View ↗](/images/mc3.jpg)
+ [View](/images/mc3.jpg)
  
  <Image
   src="/images/mc4.jpg"
@@ -55,7 +55,7 @@ Mod :
   className="next-image"
   quality="50"
 />
- [View ↗](/images/mc4.jpg)
+ [View](/images/mc4.jpg)
  
  ```
  Java
