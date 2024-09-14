@@ -3,9 +3,9 @@ import { Html, Head, Main, NextScript } from 'next/document'
 
 export default function Document() {
   const meta = {
-    title: 'hawalinajwan',
-    description: 'Website Awa (^^ゞ',
-    image: 'https://www.hawalinajwan.site/images/zeta.jpg'
+    title: 'Hawali Najwan',
+    description: '(^^ゞ',
+    image: 'https://www.hawalinajwan.site/images/tihtihasdadsa.png'
   }
 
   return (
