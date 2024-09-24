@@ -6,21 +6,22 @@ tag: Human
 author: =_=
 ---
 ---
- **IMPACT POLARISATION OF SOCIAL MEDIA ALGORITMHS**
 
-Polarisasi algoritma social media dapat memiliki dampak yang signifikan pada Kesehatan mental generasi Z. Dalam kontek ini, polarisasi merujuk pada kecenderungan algoritma untuk mengekspos pengguna media social pada konten yang sejalan dengan pandangan mereka. Beberapa dampak yang mungkin terjadi adalah : 
+**IMPACT POLARISATION OF SOCIAL MEDIA ALGORITMHS**
 
-1.	Menurunkan Keragaman Perspektif
+Polarisasi algoritma social media dapat memiliki dampak yang signifikan pada Kesehatan mental generasi Z. Dalam kontek ini, polarisasi merujuk pada kecenderungan algoritma untuk mengekspos pengguna media social pada konten yang sejalan dengan pandangan mereka. Beberapa dampak yang mungkin terjadi adalah :
+
+1. Menurunkan Keragaman Perspektif
 Algoritma sosial yang memperioritaskan konten berdasarkan preferensi sebelumnya dapat menciptakan penurunan keragaman perspektif, dimana mereka akan terpapar pada pandangan dan opini yang sejalan dengan keyakinan mereka. Ini juga dapat menghambat keterbukaan terhadap sudut pandang.
 
-2.	Tingkat Stres dan Kecemasan meningkat
+2. Tingkat Stres dan Kecemasan meningkat
 Dengan terpapar pada konten yang memicu konflik atau perbedaan pandangan dapat meningkatkan Tingkat stress dan kecemasan, terutama di kalangan gen Z. Dan juga dikarenakan terus dipasok oleh konten-konten yang dapat membuat mereka senang secara terus menerus. Ketika mereka mendapat hal yang mereka tidak senangi, maka mereka akan menganggap bahwa dirinya merasa sangat menderita. Dan itu juga menyebabkan tingkat stress dan kecemasan meningkat.
 
-3.	Tingkat Citra Diri yang Tinggi
+3. Tingkat Citra Diri yang Tinggi
 Dengan terpapar berlebih dapat memberikan tekanan pada citra diri yang menyebabkan Upaya untuk mencapai standar yang tidak realistis.
 
-4.	Ketergantungan untuk Mencari Pengakuan di Media Sosial
-Ketergantungan untuk mencari pengakuan dan perhatian melalui reaksi positif terhadap konten yang dipromosikan algoritma. 
+4. Ketergantungan untuk Mencari Pengakuan di Media Sosial
+Ketergantungan untuk mencari pengakuan dan perhatian melalui reaksi positif terhadap konten yang dipromosikan algoritma.
 
 Untuk mengatasi dampak ini diperlukan Upaya Bersama dari platform media sosial, pengembang algoritma, orang tua, Pendidik. Tapi untuk platform media sosial sepertinya tidak ingin untuk mengatasi ini karena dengan menggunakan polarisasi algoritma sosial media maka akan menguntungkan bagi mereka karena dapat membuat platformnya digunakan secara terus menerus. Dengan Pendidikan tentang digital, literasi media, dan pembinaan Kesehatan mental dapat membantu gen Z memahami dan mengelola dampak polarisasi algoritma sosial media. Selain itu penting juga untuk mempromosikan penggunaan media sosial media yang bertanggung jawab dan memandang masalah ini untuk menciptakan lingkungan yang lebih positif.
 
