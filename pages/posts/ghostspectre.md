@@ -9,7 +9,7 @@ author: hawalinajwan
 ## Ghostspectre
 Since using ghostspectre, my desktop's performance has significantly improved. The idle RAM usage, which was typically around 80%, has decreased to 40%. Additionally, when using the power saver mode, my battery now lasts 3 hours longer, whereas previously it would drain to 0% in just 1 hour. This is a truly remarkable change.😎👍
 
-[Download Windows Ghostspectre](https://ghostclouds.xyz/wp/w11-pro-23h2-22631/)
+[Download Windows Ghostspectre](https://ghostclouds.xyz/wp/w11-24h2-pro/)
 
 ### Steps to Reinstall Windows GhostSpectre Without Losing Data
 1. Ope File Iso Windows Ghostspectre.
