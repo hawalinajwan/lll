@@ -29,7 +29,7 @@ export default {
         <span className="heart">🍪</span>
       </a>
       <style jsx>{`
-      
+
         .heart {
           animation: pulse 2s infinite;
           font-size: 125% ;
