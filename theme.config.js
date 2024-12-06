@@ -26,7 +26,7 @@ export default {
 
       2021 © Hawali Najwan
       <a href="https://saweria.co/hawalinajwan" target="_blank" rel="noopener noreferrer">
-        <span className="heart">🍪</span>
+        <span className="heart">🤍</span>
       </a>
       <style jsx>{`
 
