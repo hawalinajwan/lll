@@ -5,7 +5,7 @@ export default function Document() {
   const meta = {
     title: 'Hawali Najwan',
     description: '(^^ゞ',
-    image: 'https://www.hawalinajwan.site/images/tihtihasdadsa.png'
+    image: 'https://www.hanamara.site/images/tihtihasdadsa.png'
   }
 
   return (
