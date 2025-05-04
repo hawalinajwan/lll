@@ -1,3 +1,1 @@
-hei
-
-tayo
+next.js & mdx
